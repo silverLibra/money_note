@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/money_note/static/css/main.2dfc51bb.chunk.css",
-    "main.js": "/money_note/static/js/main.60acc4fa.chunk.js",
+    "main.css": "/money_note/static/css/main.f87051ce.chunk.css",
+    "main.js": "/money_note/static/js/main.2f212e66.chunk.js",
     "runtime-main.js": "/money_note/static/js/runtime-main.a4574cee.js",
-    "static/css/2.62a2ab10.chunk.css": "/money_note/static/css/2.62a2ab10.chunk.css",
-    "static/js/2.ed716545.chunk.js": "/money_note/static/js/2.ed716545.chunk.js",
+    "static/css/2.c8021105.chunk.css": "/money_note/static/css/2.c8021105.chunk.css",
+    "static/js/2.c4105d76.chunk.js": "/money_note/static/js/2.c4105d76.chunk.js",
     "index.html": "/money_note/index.html",
-    "precache-manifest.7d40b8e0de9fd921c3f05981f97cf807.js": "/money_note/precache-manifest.7d40b8e0de9fd921c3f05981f97cf807.js",
+    "precache-manifest.51620f3f6e66835d72d1abdead8f6da5.js": "/money_note/precache-manifest.51620f3f6e66835d72d1abdead8f6da5.js",
     "service-worker.js": "/money_note/service-worker.js",
-    "static/js/2.ed716545.chunk.js.LICENSE.txt": "/money_note/static/js/2.ed716545.chunk.js.LICENSE.txt"
+    "static/js/2.c4105d76.chunk.js.LICENSE.txt": "/money_note/static/js/2.c4105d76.chunk.js.LICENSE.txt",
+    "static/media/onsenui.css": "/money_note/static/media/ionicons.cfdc1522.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.a4574cee.js",
-    "static/css/2.62a2ab10.chunk.css",
-    "static/js/2.ed716545.chunk.js",
-    "static/css/main.2dfc51bb.chunk.css",
-    "static/js/main.60acc4fa.chunk.js"
+    "static/css/2.c8021105.chunk.css",
+    "static/js/2.c4105d76.chunk.js",
+    "static/css/main.f87051ce.chunk.css",
+    "static/js/main.2f212e66.chunk.js"
   ]
 }
