@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/moneyNote/static/css/main.2dfc51bb.chunk.css",
+    "main.js": "/moneyNote/static/js/main.315e8356.chunk.js",
+    "runtime-main.js": "/moneyNote/static/js/runtime-main.67d5b2f2.js",
+    "static/css/2.62a2ab10.chunk.css": "/moneyNote/static/css/2.62a2ab10.chunk.css",
+    "static/js/2.b9b53643.chunk.js": "/moneyNote/static/js/2.b9b53643.chunk.js",
+    "index.html": "/moneyNote/index.html",
+    "precache-manifest.cf86b3e33e220df9b420aa5457f2f391.js": "/moneyNote/precache-manifest.cf86b3e33e220df9b420aa5457f2f391.js",
+    "service-worker.js": "/moneyNote/service-worker.js",
+    "static/js/2.b9b53643.chunk.js.LICENSE.txt": "/moneyNote/static/js/2.b9b53643.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67d5b2f2.js",
+    "static/css/2.62a2ab10.chunk.css",
+    "static/js/2.b9b53643.chunk.js",
+    "static/css/main.2dfc51bb.chunk.css",
+    "static/js/main.315e8356.chunk.js"
+  ]
+}
