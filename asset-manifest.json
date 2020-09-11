@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/moneyNote/static/css/main.2dfc51bb.chunk.css",
-    "main.js": "/moneyNote/static/js/main.315e8356.chunk.js",
-    "runtime-main.js": "/moneyNote/static/js/runtime-main.67d5b2f2.js",
-    "static/css/2.62a2ab10.chunk.css": "/moneyNote/static/css/2.62a2ab10.chunk.css",
-    "static/js/2.b9b53643.chunk.js": "/moneyNote/static/js/2.b9b53643.chunk.js",
-    "index.html": "/moneyNote/index.html",
-    "precache-manifest.cf86b3e33e220df9b420aa5457f2f391.js": "/moneyNote/precache-manifest.cf86b3e33e220df9b420aa5457f2f391.js",
-    "service-worker.js": "/moneyNote/service-worker.js",
-    "static/js/2.b9b53643.chunk.js.LICENSE.txt": "/moneyNote/static/js/2.b9b53643.chunk.js.LICENSE.txt"
+    "main.css": "/money_note/static/css/main.2dfc51bb.chunk.css",
+    "main.js": "/money_note/static/js/main.60acc4fa.chunk.js",
+    "runtime-main.js": "/money_note/static/js/runtime-main.a4574cee.js",
+    "static/css/2.62a2ab10.chunk.css": "/money_note/static/css/2.62a2ab10.chunk.css",
+    "static/js/2.ed716545.chunk.js": "/money_note/static/js/2.ed716545.chunk.js",
+    "index.html": "/money_note/index.html",
+    "precache-manifest.7d40b8e0de9fd921c3f05981f97cf807.js": "/money_note/precache-manifest.7d40b8e0de9fd921c3f05981f97cf807.js",
+    "service-worker.js": "/money_note/service-worker.js",
+    "static/js/2.ed716545.chunk.js.LICENSE.txt": "/money_note/static/js/2.ed716545.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67d5b2f2.js",
+    "static/js/runtime-main.a4574cee.js",
     "static/css/2.62a2ab10.chunk.css",
-    "static/js/2.b9b53643.chunk.js",
+    "static/js/2.ed716545.chunk.js",
     "static/css/main.2dfc51bb.chunk.css",
-    "static/js/main.315e8356.chunk.js"
+    "static/js/main.60acc4fa.chunk.js"
   ]
 }
