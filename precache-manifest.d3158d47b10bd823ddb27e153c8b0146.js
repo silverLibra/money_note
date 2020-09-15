@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7646ecb429ec183f82e9e43c44794a61",
+    "revision": "02b895cce12cbf917f5e634aa6427272",
     "url": "/money_note/index.html"
   },
   {
-    "revision": "402afa43671c060572d0",
-    "url": "/money_note/static/css/2.84627e36.chunk.css"
+    "revision": "9320deee3f91c79452da",
+    "url": "/money_note/static/css/2.82998fbb.chunk.css"
   },
   {
-    "revision": "494fb780aad7d4aa0e7a",
-    "url": "/money_note/static/css/main.8cfda76c.chunk.css"
+    "revision": "87c17335f9e5858a6d2b",
+    "url": "/money_note/static/css/main.e6891061.chunk.css"
   },
   {
-    "revision": "402afa43671c060572d0",
-    "url": "/money_note/static/js/2.40e21a4b.chunk.js"
+    "revision": "9320deee3f91c79452da",
+    "url": "/money_note/static/js/2.ad95813f.chunk.js"
   },
   {
-    "revision": "0e44266296f68629d462c2b684d6543d",
-    "url": "/money_note/static/js/2.40e21a4b.chunk.js.LICENSE.txt"
+    "revision": "e1b371a501bea33b5b2fc40f421894a2",
+    "url": "/money_note/static/js/2.ad95813f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "494fb780aad7d4aa0e7a",
-    "url": "/money_note/static/js/main.848f409f.chunk.js"
+    "revision": "87c17335f9e5858a6d2b",
+    "url": "/money_note/static/js/main.591727f1.chunk.js"
   },
   {
     "revision": "6f59cf0cf5d4d310951c",
