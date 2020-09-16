@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/money_note/static/css/main.06a52c91.chunk.css",
-    "main.js": "/money_note/static/js/main.1b8b65bd.chunk.js",
+    "main.css": "/money_note/static/css/main.dadfa51f.chunk.css",
+    "main.js": "/money_note/static/js/main.2c131ed7.chunk.js",
     "runtime-main.js": "/money_note/static/js/runtime-main.a4574cee.js",
     "static/css/2.82998fbb.chunk.css": "/money_note/static/css/2.82998fbb.chunk.css",
     "static/js/2.37eec7de.chunk.js": "/money_note/static/js/2.37eec7de.chunk.js",
     "index.html": "/money_note/index.html",
-    "precache-manifest.232c256068a7b76740edb76ec9708025.js": "/money_note/precache-manifest.232c256068a7b76740edb76ec9708025.js",
+    "precache-manifest.5804e023ab625556b6cfccf0a3a705e8.js": "/money_note/precache-manifest.5804e023ab625556b6cfccf0a3a705e8.js",
     "service-worker.js": "/money_note/service-worker.js",
     "static/js/2.37eec7de.chunk.js.LICENSE.txt": "/money_note/static/js/2.37eec7de.chunk.js.LICENSE.txt",
     "static/media/onsenui.css": "/money_note/static/media/ionicons.cfdc1522.ttf"
@@ -15,7 +15,7 @@
     "static/js/runtime-main.a4574cee.js",
     "static/css/2.82998fbb.chunk.css",
     "static/js/2.37eec7de.chunk.js",
-    "static/css/main.06a52c91.chunk.css",
-    "static/js/main.1b8b65bd.chunk.js"
+    "static/css/main.dadfa51f.chunk.css",
+    "static/js/main.2c131ed7.chunk.js"
   ]
 }
